@@ -1,5 +1,7 @@
 # Market Segmentation : The Segmentation of Online Taxi's Customers Using K-Means
 
+<img src='https://www.gannett-cdn.com/-mm-/56a47e3d9d848ce5dfbc1fdb5a813da89bde51d6/c=0-528-3000-2220/local/-/media/USATODAY/USATODAY/2014/04/14//1397524769000-Opposing-view-Uber.jpg?width=3000&height=1692&fit=crop&format=pjpg&auto=webp' style='width:100%; height:20%;'>
+
 **About the Project**
 <br>
 This project is used to apply market segmentation, there is dataset that was provided as known as Online Taxi Transaction’s history. The dataset contains details of more than 200.000 online taxi customer's transactions in New York City.  Its features allows us to using the customer behavior from various features: from taxi provider, trip distance, fare amount, tip amount, tolls amount, rate code, pickup and dropoff location id, etc. We also using the shapefile geolocation data from external to get the details information about taxi zone, so we can get the detail information about location name for the focus area to increase the profit and offering the promos to the customers which have amount based on the customer's segment. 
